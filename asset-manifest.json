@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-tasks-mern/static/css/main.520c8a8a.css",
+    "main.js": "/react-tasks-mern/static/js/main.11ddcd18.js",
+    "index.html": "/react-tasks-mern/index.html",
+    "main.520c8a8a.css.map": "/react-tasks-mern/static/css/main.520c8a8a.css.map",
+    "main.11ddcd18.js.map": "/react-tasks-mern/static/js/main.11ddcd18.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.520c8a8a.css",
+    "static/js/main.11ddcd18.js"
+  ]
+}
